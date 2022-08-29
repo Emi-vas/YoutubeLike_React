@@ -9,7 +9,6 @@ const VideoCard = ({ video }) => {
     const videoId = video.id.videoId
     const videoSnippet = video.snippet
 
-    console.log(videoSnippet.thumbnails.high.url)
 
     return (
         <Card sx={{ width: { md: '320px', xs: '100%' }, borderRadius: "0" }}>
