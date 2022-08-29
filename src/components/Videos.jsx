@@ -4,7 +4,7 @@ import ChannelCard from "./ChannelCard";
 
 const Videos = ({ videos }) => {
     return (
-        <Stack direction="row" flexWrap="wrap" justifyContent="start" gap={2}>
+        <Stack direction="row" flexWrap="wrap" justifyContent="center" gap={2}>
             {
                 videos.map((item, index) => (
                     <Box key={index}>
