@@ -36,7 +36,8 @@ export const categories = [
 
 export const colors = {
   black : "rgb(34, 34, 34)",
-  red : "rgb(216, 60, 60)"
+  red : "rgb(216, 60, 60)",
+  red2 : "rgb(255, 94, 94)"
 }
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
