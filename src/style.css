@@ -27,7 +27,7 @@ a {
 }
 
 .category-btn:hover {
-  background-color: #FC1503 !important;
+  background-color: #f33a2d !important;
   color: white !important;
 }
 
@@ -86,4 +86,8 @@ a {
   .search-bar{
     width:200px;
   }
+}
+
+.test {
+  color: rgb(34, 34, 34);
 }
